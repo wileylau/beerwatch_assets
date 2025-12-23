@@ -1,0 +1,282 @@
+[
+  {
+    "type": "Cocktail",
+    "brewer": "& (Vodka Soda And)",
+    "brew": "Dry Whiskey with Lime",
+    "abv": 6.0,
+    "volume": 330
+  },
+  {
+    "type": "Ginger Beer",
+    "brewer": "& (Vodka Soda And)",
+    "brew": "Ginger Beer",
+    "abv": 4.0,
+    "volume": 330
+  },
+  {
+    "type": "Lager",
+    "brewer": "Asahi Breweries",
+    "brew": "Asahi Super Dry",
+    "abv": 5.2,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Asahi Breweries",
+    "brew": "Asahi Super Dry",
+    "abv": 5.2,
+    "volume": 330
+  },
+  {
+    "type": "Lager",
+    "brewer": "Asahi Breweries",
+    "brew": "Asahi Super Dry",
+    "abv": 5.2,
+    "volume": 620
+  },
+  {
+    "type": "Lager",
+    "brewer": "Boon Rawd Brewery",
+    "brew": "Singha",
+    "abv": 5.0,
+    "volume": 500
+  },
+  {
+    "type": "Shandy",
+    "brewer": "Brasserie Licorne",
+    "brew": "Slash Citrus",
+    "abv": 4.5,
+    "volume": 500
+  },
+  {
+    "type": "IPA",
+    "brewer": "Brasserie Licorne",
+    "brew": "Slash IPA",
+    "abv": 5.9,
+    "volume": 500
+  },
+  {
+    "type": "Wheat",
+    "brewer": "Brasseries Kronenbourg",
+    "brew": "1664 Rosé",
+    "abv": 4.5,
+    "volume": 500
+  },
+  {
+    "type": "Wheat",
+    "brewer": "Brasseries Kronenbourg",
+    "brew": "1664 Blanc",
+    "abv": 5.0,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Brasseries Kronenbourg",
+    "brew": "1664 Lager",
+    "abv": 5.5,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Brasseries Kronenbourg",
+    "brew": "1664 Brut",
+    "abv": 4.5,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Carlsberg Group",
+    "brew": "Carlsberg Premium Smooth Draught",
+    "abv": 4.8,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Chang",
+    "brew": "Chang Classic",
+    "abv": 5.0,
+    "volume": 490
+  },
+  {
+    "type": "Lager",
+    "brewer": "Chang",
+    "brew": "Chang Classic",
+    "abv": 5.0,
+    "volume": 490
+  },
+  {
+    "type": "Lager",
+    "brewer": "Corona",
+    "brew": "Corona Extra",
+    "abv": 4.6,
+    "volume": 500
+  },
+  {
+    "type": "Stout",
+    "brewer": "Guinness",
+    "brew": "Draught",
+    "abv": 4.2,
+    "volume": 440
+  },
+  {
+    "type": "Wheat",
+    "brewer": "Hoegaarden",
+    "brew": "Wheat Beer",
+    "abv": 4.9,
+    "volume": 500
+  },
+  {
+    "type": "Fruit",
+    "brewer": "Kaiserwin",
+    "brew": "Kaiswerin Cherry",
+    "abv": 4.6,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Kingstar Beer Group (金星啤酒)",
+    "brew": "Kong Tao Beer (港島)",
+    "abv": 5.0,
+    "volume": 330
+  },
+  {
+    "type": "Happoshu",
+    "brewer": "Kirin Brewery Company",
+    "brew": "Tanrei Platinum Double",
+    "abv": 5.5,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Kirin Brewery Company",
+    "brew": "Harekaze (晴れ風)",
+    "abv": 5.0,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Kirin Brewery Company",
+    "brew": "Ichiban Shibori (一番搾り)",
+    "abv": 5.0,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Kura Kura Beer",
+    "brew": "Lager",
+    "abv": 4.2,
+    "volume": 330
+  },
+  {
+    "type": "Pale Ale",
+    "brewer": "Kura Kura Beer",
+    "brew": "Island Ale",
+    "abv": 4.9,
+    "volume": 330
+  },
+  {
+    "type": "Pale Ale",
+    "brewer": "Minoh Beer",
+    "brew": "Pale Ale",
+    "abv": 5.5,
+    "volume": 330
+  },
+  {
+    "type": "Lager",
+    "brewer": "Orion Breweries, Ltd.",
+    "brew": "The Dark",
+    "abv": 5.0,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Orion Breweries, Ltd.",
+    "brew": "The Draft",
+    "abv": 5.0,
+    "volume": 500
+  },
+  {
+    "type": "Pilsner",
+    "brewer": "Pilsner Urquell",
+    "brew": "Pilsner",
+    "abv": 4.4,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Sapporo Breweries",
+    "brew": "Sapporo Premium Beer",
+    "abv": 4.9,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
+    "brewer": "Sapporo Breweries",
+    "brew": "Yebisu (Premium)",
+    "abv": 5.0,
+    "volume": 500
+  },
+  {
+    "type": "IPA",
+    "brewer": "Stone Brewing",
+    "brew": "IPA",
+    "abv": 6.9,
+    "volume": 355
+  },
+  {
+    "type": "Cocktail",
+    "brewer": "Suntory Spirits Limited",
+    "brew": "-196 Vodka Seltzer - Whole Peach",
+    "abv": 5.0,
+    "volume": 330
+  },
+  {
+    "type": "Cocktail",
+    "brewer": "Suntory Spirits Limited",
+    "brew": "-196 Vodka Seltzer - Whole Grapefruit",
+    "abv": 5.0,
+    "volume": 330
+  },
+  {
+    "type": "Happoshu",
+    "brewer": "Suntory Spirits Limited",
+    "brew": "Seven Premium The Brew",
+    "abv": 5.0,
+    "volume": 500
+  },
+  {
+    "type": "Pilsner",
+    "brewer": "Suntory Spirits Limited",
+    "brew": "The Premium Malt's",
+    "abv": 5.5,
+    "volume": 500
+  },
+  {
+    "type": "Ale",
+    "brewer": "Suntory Spirits Limited",
+    "brew": "The Premium Malt's Kaoru Ale (香るエール)",
+    "abv": 6.0,
+    "volume": 500
+  },
+  {
+    "type": "Fruit",
+    "brewer": "Taihu Brewing (臺虎)",
+    "brew": "Son of a Kumquat",
+    "abv": 9.9,
+    "volume": 500
+  },
+  {
+    "type": "Sake",
+    "brewer": "Takara",
+    "brew": "澪 MIO",
+    "abv": 5.0,
+    "volume": 286
+  },
+  {
+    "type": "Other",
+    "brewer": "Taste Room",
+    "brew": "桂 - Light",
+    "abv": 3.6,
+    "volume": 330
+  }
+]
