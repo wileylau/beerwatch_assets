@@ -217,6 +217,13 @@
     "volume": 500
   },
   {
+    "type": "Lager",
+    "brewer": "Stella Artois",
+    "brew": "Stella Artois",
+    "abv": 5.0,
+    "volume": 500
+  },
+  {
     "type": "IPA",
     "brewer": "Stone Brewing",
     "brew": "IPA",
