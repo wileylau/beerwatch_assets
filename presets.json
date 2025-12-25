@@ -36,6 +36,13 @@
   },
   {
     "type": "Lager",
+    "brewer": "Asahi Breweries",
+    "brew": "Asahi Super Dry Crystal",
+    "abv": 3.5,
+    "volume": 500
+  },
+  {
+    "type": "Lager",
     "brewer": "Boon Rawd Brewery",
     "brew": "Singha",
     "abv": 5.0,
@@ -112,6 +119,13 @@
     "volume": 500
   },
   {
+    "type": "Lager",
+    "brewer": "Corona",
+    "brew": "Corona Extra",
+    "abv": 4.6,
+    "volume": 330
+  },
+  {
     "type": "Stout",
     "brewer": "Guinness",
     "brew": "Draught",
@@ -123,6 +137,13 @@
     "brewer": "Hoegaarden",
     "brew": "Wheat Beer",
     "abv": 4.9,
+    "volume": 500
+  },
+  {
+    "type": "Wheat",
+    "brewer": "Jing A (京A) Brewing Co.",
+    "brew": "Chenpi Abai (陈皮阿白)",
+    "abv": 4.2,
     "volume": 500
   },
   {
